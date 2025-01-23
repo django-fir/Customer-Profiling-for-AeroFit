@@ -114,7 +114,7 @@ Some key insights from our analysis:
 ## 📧 Contact
 For queries or collaborations, reach out to:
 
-- **LinkedIn:** [Govardhan S N](www.linkedin.com/in/govardhan-s-n-55b52a1ba)
+- **LinkedIn:** [Govardhan S N](https://linkedin.com/in/govardhan-s-n)
 - **GitHub:** [Govardhan](https://github.com/django-fir)
 - **Email:** [gova9632@gmail.com](mailto:gova9632@gmail.com)
 
