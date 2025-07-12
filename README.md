@@ -84,7 +84,7 @@ Aerofit offers three treadmill models, each catering to different customer needs
 ## 🛠️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AeroFit-Customer-Profiling.git
+   git clone https://github.com/django-fir/AeroFit-Customer-Profiling.git
    cd AeroFit-Customer-Profiling
    ```
 ---
